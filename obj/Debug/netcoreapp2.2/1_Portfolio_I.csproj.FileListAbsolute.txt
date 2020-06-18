@@ -1,0 +1,50 @@
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\bin\Debug\netcoreapp2.2\1_Portfolio_I.deps.json
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\bin\Debug\netcoreapp2.2\1_Portfolio_I.runtimeconfig.json
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\bin\Debug\netcoreapp2.2\1_Portfolio_I.runtimeconfig.dev.json
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\bin\Debug\netcoreapp2.2\1_Portfolio_I.dll
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\bin\Debug\netcoreapp2.2\1_Portfolio_I.pdb
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.csprojAssemblyReference.cache
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.csproj.CoreCompileInputs.cache
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorAssemblyInfo.cache
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorAssemblyInfo.cs
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.AssemblyInfoInputs.cache
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.AssemblyInfo.cs
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorTargetAssemblyInfo.cache
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.dll
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.pdb
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\bin\Debug\netcoreapp2.2\1_Portfolio_I.Views.dll
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\bin\Debug\netcoreapp2.2\1_Portfolio_I.Views.pdb
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.TagHelpers.input.cache
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.TagHelpers.output.cache
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorCoreGenerate.cache
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Contact.g.cshtml.cs
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Index.g.cshtml.cs
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Projects.g.cshtml.cs
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorTargetAssemblyInfo.cs
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.Views.pdb
+C:\Users\jaket\Documents\CodingDojoAssignments\C_Sharp\Day_4\1_Portfolio_I\obj\Debug\netcoreapp2.2\1_Portfolio_I.csproj.CopyComplete
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\bin\Debug\netcoreapp2.2\1_Portfolio_I.deps.json
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\bin\Debug\netcoreapp2.2\1_Portfolio_I.runtimeconfig.json
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\bin\Debug\netcoreapp2.2\1_Portfolio_I.runtimeconfig.dev.json
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\bin\Debug\netcoreapp2.2\1_Portfolio_I.dll
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\bin\Debug\netcoreapp2.2\1_Portfolio_I.pdb
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\bin\Debug\netcoreapp2.2\1_Portfolio_I.Views.dll
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\bin\Debug\netcoreapp2.2\1_Portfolio_I.Views.pdb
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.csprojAssemblyReference.cache
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorAssemblyInfo.cache
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorAssemblyInfo.cs
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.AssemblyInfoInputs.cache
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.AssemblyInfo.cs
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.TagHelpers.input.cache
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.TagHelpers.output.cache
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorCoreGenerate.cache
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Contact.g.cshtml.cs
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Index.g.cshtml.cs
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\Razor\Views\Portfolio\Projects.g.cshtml.cs
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorTargetAssemblyInfo.cache
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.RazorTargetAssemblyInfo.cs
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.Views.pdb
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.dll
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.pdb
+C:\Users\Jacob\Documents\Personal Documents\Professional Development\Portfolio\obj\Debug\netcoreapp2.2\1_Portfolio_I.csproj.CopyComplete
