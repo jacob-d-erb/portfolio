@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Jacob\\Documents\\Personal Documents\\Professional Development\\Portfolio\\1_Portfolio_I.csproj",
+  "FilePath": "c:\\Users\\jaket\\Documents\\Portfolio\\portfolio\\1_Portfolio_I.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2961,17 +2961,7 @@
   "RootNamespace": "_1_Portfolio_I",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Jacob\\Documents\\Personal Documents\\Professional Development\\Portfolio\\Views\\Portfolio\\Contact.cshtml",
-      "TargetPath": "Views\\Portfolio\\Contact.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jacob\\Documents\\Personal Documents\\Professional Development\\Portfolio\\Views\\Portfolio\\Projects.cshtml",
-      "TargetPath": "Views\\Portfolio\\Projects.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jacob\\Documents\\Personal Documents\\Professional Development\\Portfolio\\Views\\Portfolio\\Index.cshtml",
+      "FilePath": "c:\\Users\\jaket\\Documents\\Portfolio\\portfolio\\Views\\Portfolio\\Index.cshtml",
       "TargetPath": "Views\\Portfolio\\Index.cshtml",
       "FileKind": "mvc"
     }
